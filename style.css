@@ -1,3 +1,17 @@
 h1{
     color:chartreuse;
 }
+
+body{
+     background-color: white;
+}
+
+img {
+    width:50%;
+}
+
+p{
+    font: Arial;
+    font-size: 3rem;
+    color: red;
+}
